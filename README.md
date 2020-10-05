@@ -23,7 +23,7 @@ We use ML Algorithms like LinearRegression, MLPRegressor, KNeighborsRegressor, R
 We get the best model out of these by applying grid search hyperparameter optimization methods.
 We then save the model and use it for testing and evaluation.
 ## Block Diagram
-
+![Alt text](https://github.com/chiranthancv95/time-series-regression/blob/main/block_diagram_for_time-series-regression.png?raw=true)
 ## Sample Test Results
 LR: 1.000000 (0.000000)
 NN: 0.994855 (0.000688) 
